@@ -8,7 +8,8 @@ Class Header: é a primeira linha do arquivo, que contém o nome da classe, o n�
 
 # O body da classe é onde você define os atributos e métodos da classe. Atributos são as características da classe, e métodos são as ações que a classe pode realizar.
 #Dentro de uma classe podemos encontrar alguns elementos como Class Atributes, __init__() e Methods.
-class ClassName:
+
+# class ClassName:
 
     # Class Atributes são atributos que pertencem à classe como um todo, e não a uma instância específica da classe. Eles são definidos diretamente dentro da classe, mas fora de qualquer método.
 
